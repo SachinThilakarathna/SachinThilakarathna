@@ -1,6 +1,6 @@
 <h2> 👋 Hello there! I'm Sachin Thilakarathna <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
 
-A 3rd-year Software Engineering student passionate about building meaningful digital experiences. I specialize in **Web & Mobile App Development**, with a focus on **UI/UX design**, cloud integration, and building full-stack applications.
+A final-year Software Engineering student passionate about building meaningful digital experiences. I specialize in **Web & Mobile App Development**, with a focus on **UI/UX design**, cloud integration, and building full-stack applications.
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
 
 <p><em>Software Enginnerin student at <a href="https://kdu.ac.lk/">General Sir John Kotelawala Defence University (KDU) </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
