@@ -33,7 +33,6 @@ const sachin = {
 }
 
 ```
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinthilakarathna&layout=compact&theme=github_dark&hide_border=true)
 
 <em><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50" /> 
 <b>Always up for a good tech chat!</b> Don’t hesitate to reach out and say <b>hi 👋</b> — let’s connect!</em>
